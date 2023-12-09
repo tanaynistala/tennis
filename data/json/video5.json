@@ -1,4 +1,5 @@
 {
+	"video": "data/videos/video5.mp4",
 	"classes": {
 		"Match": [
 			{
@@ -9,33 +10,195 @@
 				"start": 12795
 			}
 		],
-		"SPLITS": [
+		"Set": [
 			{
 				"desc": "",
 				"custom": {
-					"Type": "Train"
+					"Score": "1-0",
+					"Winner": "Williams",
+					"Near": "Williams"
 				},
-				"end": 82585,
+				"end": 52467,
 				"name": "0001",
-				"start": 12600
+				"start": 12868
 			},
 			{
 				"desc": "",
 				"custom": {
-					"Type": "Val"
+					"Score": "2-0",
+					"Winner": "Williams",
+					"Near": "Williams"
 				},
-				"end": 88066,
+				"end": 107085,
 				"name": "0002",
-				"start": 82594
+				"start": 56107.0
+			}
+		],
+		"Game": [
+			{
+				"desc": "",
+				"custom": {
+					"Score": "1-0",
+					"Winner": "Williams",
+					"Server": "Williams"
+				},
+				"end": 14802,
+				"name": "0001",
+				"start": 12879
 			},
 			{
 				"desc": "",
 				"custom": {
-					"Type": "Test"
+					"Score": "2-0",
+					"Winner": "Williams",
+					"Server": "Azarenka"
 				},
-				"end": 107283,
+				"end": 19622,
+				"name": "0002",
+				"start": 15650
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "3-0",
+					"Winner": "Williams",
+					"Server": "Williams"
+				},
+				"end": 23515,
 				"name": "0003",
-				"start": 88075
+				"start": 20294
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "3-1",
+					"Winner": "Azarenka",
+					"Server": "Azarenka"
+				},
+				"end": 29850,
+				"name": "0004",
+				"start": 25876
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "4-1",
+					"Winner": "Williams",
+					"Server": "Williams"
+				},
+				"end": 35857,
+				"name": "0005",
+				"start": 30450
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "5-1",
+					"Winner": "Williams",
+					"Server": "Azarenka"
+				},
+				"end": 47258,
+				"name": "0006",
+				"start": 38274
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "6-1",
+					"Winner": "Williams",
+					"Server": "Williams"
+				},
+				"end": 52433,
+				"name": "0007",
+				"start": 48211
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "1-0",
+					"Winner": "Williams",
+					"Server": "Azarenka"
+				},
+				"end": 60320,
+				"name": "0008",
+				"start": 56161.0
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "2-0",
+					"Winner": "Williams",
+					"Server": "Williams"
+				},
+				"end": 64584,
+				"name": "0009",
+				"start": 61682
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "3-0",
+					"Winner": "Williams",
+					"Server": "Azarenka"
+				},
+				"end": 69227,
+				"name": "0010",
+				"start": 65387
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "4-0",
+					"Winner": "Williams",
+					"Server": "Williams"
+				},
+				"end": 75656,
+				"name": "0011",
+				"start": 72072
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "4-1",
+					"Winner": "Azarenka",
+					"Server": "Azarenka"
+				},
+				"end": 80719,
+				"name": "0012",
+				"start": 76344
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "5-1",
+					"Winner": "Williams",
+					"Server": "Williams"
+				},
+				"end": 87834,
+				"name": "0013",
+				"start": 83622
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "5-2",
+					"Winner": "Azarenka",
+					"Server": "Azarenka"
+				},
+				"end": 97102,
+				"name": "0014",
+				"start": 88694
+			},
+			{
+				"desc": "",
+				"custom": {
+					"Score": "6-2",
+					"Winner": "Williams",
+					"Server": "Williams"
+				},
+				"end": 107058,
+				"name": "0015",
+				"start": 99573
 			}
 		],
 		"Point": [
@@ -978,173 +1141,6 @@
 				"end": 107021,
 				"name": "0094",
 				"start": 106939
-			}
-		],
-		"Game": [
-			{
-				"desc": "",
-				"custom": {
-					"Score": "1-0",
-					"Winner": "Williams",
-					"Server": "Williams"
-				},
-				"end": 14802,
-				"name": "0001",
-				"start": 12879
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "2-0",
-					"Winner": "Williams",
-					"Server": "Azarenka"
-				},
-				"end": 19622,
-				"name": "0002",
-				"start": 15650
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "3-0",
-					"Winner": "Williams",
-					"Server": "Williams"
-				},
-				"end": 23515,
-				"name": "0003",
-				"start": 20294
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "3-1",
-					"Winner": "Azarenka",
-					"Server": "Azarenka"
-				},
-				"end": 29850,
-				"name": "0004",
-				"start": 25876
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "4-1",
-					"Winner": "Williams",
-					"Server": "Williams"
-				},
-				"end": 35857,
-				"name": "0005",
-				"start": 30450
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "5-1",
-					"Winner": "Williams",
-					"Server": "Azarenka"
-				},
-				"end": 47258,
-				"name": "0006",
-				"start": 38274
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "6-1",
-					"Winner": "Williams",
-					"Server": "Williams"
-				},
-				"end": 52433,
-				"name": "0007",
-				"start": 48211
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "1-0",
-					"Winner": "Williams",
-					"Server": "Azarenka"
-				},
-				"end": 60320,
-				"name": "0008",
-				"start": 56161.0
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "2-0",
-					"Winner": "Williams",
-					"Server": "Williams"
-				},
-				"end": 64584,
-				"name": "0009",
-				"start": 61682
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "3-0",
-					"Winner": "Williams",
-					"Server": "Azarenka"
-				},
-				"end": 69227,
-				"name": "0010",
-				"start": 65387
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "4-0",
-					"Winner": "Williams",
-					"Server": "Williams"
-				},
-				"end": 75656,
-				"name": "0011",
-				"start": 72072
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "4-1",
-					"Winner": "Azarenka",
-					"Server": "Azarenka"
-				},
-				"end": 80719,
-				"name": "0012",
-				"start": 76344
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "5-1",
-					"Winner": "Williams",
-					"Server": "Williams"
-				},
-				"end": 87834,
-				"name": "0013",
-				"start": 83622
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "5-2",
-					"Winner": "Azarenka",
-					"Server": "Azarenka"
-				},
-				"end": 97102,
-				"name": "0014",
-				"start": 88694
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "6-2",
-					"Winner": "Williams",
-					"Server": "Williams"
-				},
-				"end": 107058,
-				"name": "0015",
-				"start": 99573
 			}
 		],
 		"Hit": [
@@ -4383,30 +4379,6 @@
 				"start": 62610
 			}
 		],
-		"Set": [
-			{
-				"desc": "",
-				"custom": {
-					"Score": "1-0",
-					"Winner": "Williams",
-					"Near": "Williams"
-				},
-				"end": 52467,
-				"name": "0001",
-				"start": 12868
-			},
-			{
-				"desc": "",
-				"custom": {
-					"Score": "2-0",
-					"Winner": "Williams",
-					"Near": "Williams"
-				},
-				"end": 107085,
-				"name": "0002",
-				"start": 56107.0
-			}
-		],
 		"Serve": [
 			{
 				"desc": "",
@@ -5608,16 +5580,6 @@
 				"name": "0120",
 				"start": 106946
 			}
-		],
-		"USE": [
-			{
-				"desc": "",
-				"custom": {},
-				"end": 107409,
-				"name": "0001",
-				"start": 12351
-			}
 		]
-	},
-	"video": "data/videos/V010.mp4"
+	}
 }
