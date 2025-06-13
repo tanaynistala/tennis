@@ -31,3 +31,7 @@ We evaluated our model using categorical accuracy as the training metric for the
 ## Extensions
 
 This framework for extracting keypoints, inputting it to a neural network, and then being able to predict long and short term tennis poses could be applied to a double's case. This would be interesting as there are more players on court and also, the player the side of the net with the ball who is not currently hitting the ball often has different kinds of positions than those found in single's matches. Thus, it would be a novel extension and one that is not currently found in the literature.
+
+## Future Work
+
+This project's main future work the authors intend to do is implement in OpenCV the bounding boxes outputing the predictions when they are made on previously unseen photos (the test set).
